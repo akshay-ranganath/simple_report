@@ -1,0 +1,12 @@
+{
+  "name": "reportGeneration",
+  "version": "1.0.0",
+  "description": "Report Generation tool for Edible",
+  "main": "index.js",
+  "author": "Akshay Ranganath",
+  "license": "MIT",
+  "dependencies": {
+    "cloudinary": "^1.24.0",
+    "dotenv": "^8.2.0"
+  }
+}
